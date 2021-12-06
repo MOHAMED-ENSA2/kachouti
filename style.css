@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(255,255,255, .2);
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+table{
+    width: 70%;
+    margin: 10vh auto;
+    text-align: center;
+
+}
+
+
+td{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+tr.td:nth-child(1){
+    background-color: aquamarine;
+}
+tr.td:nth-child(4){
+    background-color: aquamarine;
+} 
+
+tr.td:nth-child(2){
+    background-color: ;
+}
+tr.td:nth-child(3){
+    background-color: ;
+} 
+
